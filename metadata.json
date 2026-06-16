@@ -1,0 +1,6 @@
+{
+  "name": "Pemindai ATS Pintar",
+  "description": "Aplikasi bertenaga AI untuk menguji dan mengoptimalkan persentase keselarasan CV Anda dengan deskripsi lowongan kerja (Loker) agar ramah sistem ATS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
